@@ -296,11 +296,13 @@ footer {
     }
 
     #left-about,
-    right-about {
+    #right-about {
         width: 100%;
         float: left;
         padding: 0;
     }
+
+
 
     #center-about {
         clear: both;
